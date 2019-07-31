@@ -1,6 +1,6 @@
 # Organizar arquivos por extensão
 
-**Requirements:** tkinter
+**Requisitos:** tkinter
 
 * Como instalar o pacote _tkinter_:
 ```
