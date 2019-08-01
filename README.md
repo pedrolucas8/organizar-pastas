@@ -1,5 +1,7 @@
 # Organizar arquivos por extensão
 
+![python](https://img.shields.io/badge/Python-3.6-blue)
+
 **Requisitos:** tkinter
 
 * Como instalar o pacote _tkinter_:
