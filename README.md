@@ -12,10 +12,19 @@ pip install tkinter
 * Como usar:
     - Executar o arquivo princial: main.py;
         ```
-        python main.py
+        python main.py <extensao>
         ```
     - Selecionar o diretório que queira organizar;
-    - Digitar a extensão do arquivo, o programa criará uma pasta com o nome da extensão dentro da pasta selecionada anteriormente.
+    - Digitar a extensão do arquivo sem o ponto ```'.'```, o programa criará uma pasta com o nome da extensão dentro da pasta selecionada anteriormente.
+        - Errado
+            ```
+            python main.py .pdf
+            ```
+
+        - Correto
+            ```
+            python main.py pdf
+            ```   
 
 * Exemplo:
     - Antes:
